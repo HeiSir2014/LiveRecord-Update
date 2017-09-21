@@ -3,5 +3,9 @@
 		"changeType": "MODIFY",
 		"path": "LiveRecord.exe",
 		"size": 2325504
+	},{
+		"changeType": "MODIFY",
+		"path": "SafeNetClientSdk.dll",
+		"size": 2325504
 	}]
 }
