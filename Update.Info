@@ -3,5 +3,37 @@
 		"changeType": "MODIFY",
 		"path": "LiveRecord.exe",
 		"size": 2325504
+	},{
+		"changeType": "MODIFY",
+		"path": "avcodec-58.dll",
+		"size": 2325504
+	},{
+		"changeType": "MODIFY",
+		"path": "avdevice-58.dll",
+		"size": 2325504
+	},{
+		"changeType": "MODIFY",
+		"path": "avfilter-7.dll",
+		"size": 2325504
+	},{
+		"changeType": "MODIFY",
+		"path": "avformat-58.dll",
+		"size": 2325504
+	},{
+		"changeType": "MODIFY",
+		"path": "avutil-56.dll",
+		"size": 2325504
+	},{
+		"changeType": "MODIFY",
+		"path": "postproc-55.dll",
+		"size": 2325504
+	},{
+		"changeType": "MODIFY",
+		"path": "swresample-3.dll",
+		"size": 2325504
+	},{
+		"changeType": "MODIFY",
+		"path": "swscale-5.dll",
+		"size": 2325504
 	}]
 }
